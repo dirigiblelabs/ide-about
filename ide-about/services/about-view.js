@@ -16,6 +16,6 @@ exports.getView = function () {
         "factory": "frame",
         "region": "center-middle",
         "label": "About",
-        "link": "../ide/about/about.html"
+        "link": "../ide-about/about.html"
     };
 }
